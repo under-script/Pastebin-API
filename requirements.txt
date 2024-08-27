@@ -1,0 +1,11 @@
+Django==5.1
+djangorestframework==3.15.2
+Pygments==2.18.0
+httpie==3.2.3
+rest-framework-redesign==0.2.9
+drf-material==0.3.3
+django-debug-toolbar==4.4.6
+drf-yasg==1.21.7
+drf-spectacular==0.27.2
+drf-spectacular-sidecar==2024.7.1
+djangorestframework-simplejwt==5.3.1
